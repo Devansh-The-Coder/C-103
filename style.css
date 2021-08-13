@@ -1,0 +1,13 @@
+.heading{
+    width: 80%;
+    font-size: 25px;
+
+}
+body {
+    background-color: pink;
+}
+#camera {
+    border: 6px dotted yellowgreen;
+    width: 300px;
+    height: 300px;
+}
